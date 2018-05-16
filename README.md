@@ -2,6 +2,7 @@
 
 ### `npm start`
 
+### `yarn run ios`
 ### `npm run ios`
 
 # ENDPOINTS:
